@@ -58,3 +58,8 @@ The email account that sends the email and the account that recives this email c
 ```
 
 That is all that is needed to get the project running!
+
+# Video Demo
+Below is a YouTube link to a short demo that shows everything working.
+
+https://youtu.be/rHeFz6U5Va8
