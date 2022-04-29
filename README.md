@@ -48,7 +48,7 @@ sudo python Project4180.py
 ```
 Another option is to use the pre-installed Thonny IDE. By clicking on the Raspberry Pi logo on the top left of screen, hovering over programming, then clicking on Thonny Python IDE. Then click on "Load" and chose Project4180.py as the file. The progam can then be started by clicking "Run."
 
-With the code now running, the Pi waits for the userr input in form of the button being pressed. Once it is clicked, the camera preview will pop up then capture the image after 5 seconds. The user is then prompted to type their name in using the wireless keyboard. After typing the user's name and hitting enter, and email will be sent to an address of the programmer's choice. Below is an example of what an email sent from this program looks like.
+With the code now running, the Pi waits for the user input in form of the button being pressed. Once it is clicked, the camera preview will pop up then capture the image after 5 seconds. The user is then prompted to type their name in using the wireless keyboard. After typing the user's name and hitting enter, and email will be sent to an address of the programmer's choice. Below is an example of what an email sent from this program looks like.
 
 ![TestEmail](https://user-images.githubusercontent.com/104606134/165876215-7982bd76-41ac-403f-a0b4-30c08312559e.JPG)
 
