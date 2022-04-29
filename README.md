@@ -52,11 +52,11 @@ With the code now running, the Pi waits for the user input in form of the button
 
 ![TestEmail](https://user-images.githubusercontent.com/104606134/165876215-7982bd76-41ac-403f-a0b4-30c08312559e.JPG)
 
-The email account that sends the email and the account that recives this email can be changed by simply editing the lines 29, 30, and 31 in the given code. Below is the code snippit of these lines and what each variable does. Note that the email account that sends the emails mult be a Gmail account. In addition to this, less secure app access mult be enabled on the account. This can be found by going to the Goggle acount settings and searching "Less secure app access." (NOTE: It appears Google is removing this feature mid 2022, without it some other steps may be needed in the future for Gmail account access).
+The email account that sends the email and the account that receives this email can be changed by simply editing the lines 29, 30, and 31 in the given code. Below is the code snippet of these lines and what each variable does. Note that the email account that sends the emails must be a Gmail account. In addition to this, less secure app access must be enabled on the account. This can be found by going to the Goggle account settings and searching "Less secure app access." (NOTE: It appears Google is removing this feature mid-2022, without it some other steps may be needed in the future for Gmail account access).
 ```
 29        address = '# insert sender's email here in the form: ____@gmail.com'
 30        password = '# insert Gmail password for the address entered above'
-31        securityAddr = '# insert reciver's email address here in the form: ___@gmail.com'
+31        securityAddr = '# insert receiver's email address here in the form: ___@gmail.com'
 ```
 
 That is all that is needed to get the project running!
