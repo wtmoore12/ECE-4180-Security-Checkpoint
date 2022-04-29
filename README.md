@@ -1,5 +1,7 @@
 # ECE-4180-Security-Checkpoint
-by William Moore and Trent Hannan
+Created by:
+- William Moore
+- Trent Hannan
 
 This project is a simple security checkpoint. This was achieved by using a Raspberry Pi, a button, and a Raspberry Pi camera. A user would walk tup to the station and press the button. A preview pops up on the monitor and after 5 seconds the image is taken. The user is then prompted to enter their name, and after that information is entered an email with the image and there name is sent to a security officer. This can be used in many wasys such as at an airport or as an enterance to a gated community.
 
